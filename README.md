@@ -5,9 +5,9 @@
 
 ## Good have knowledge
 
-- Use useCallback for caching functions (e.g., event handlers).
-- Use useMemo for caching computed values (e.g., expensive calculations).
-    `Both hooks contribute to optimizing performance in React! 🚀🧠`
+- Use `useCallback` for caching `functions` (e.g., event handlers).
+- Use `useMemo` for caching `computed values of functions` (e.g., expensive calculations).
+- `Both hooks contribute to optimizing performance in React! 🚀🧠`
 ## Hooks in React.
 - `Hooks are feature introduced in React 16.8 that allows you to use state and other React features without wrting a class. They enable fuctional components to have access to stateful logic and lifecylce features, which were previously only available in class components. This has lead to a more consice and more readable way of writing components in React.`
 - The Functions that start with use are called hooks.
