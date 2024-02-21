@@ -3,7 +3,7 @@
 - `useCallback` is a hook provided by React a javascript library for building user interfaces, that is used to memoize functions. It returns a memoized version of the callback function that only changes if one of the dependencies has changed. This can be useful in optimizing performance, particularly in scenarios where the function is passed down to child components.
 
 
-## Good have knowledge
+## Good to know :
 
 - Use `useCallback` for caching `functions` (e.g., event handlers).
 - Use `useMemo` for caching `computed values of functions` (e.g., expensive calculations).
